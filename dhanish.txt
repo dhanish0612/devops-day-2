@@ -1,0 +1,3 @@
+welcome to devops
+hello user 
+day 2 session 
